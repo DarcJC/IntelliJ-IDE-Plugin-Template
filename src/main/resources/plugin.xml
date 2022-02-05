@@ -1,0 +1,21 @@
+<idea-plugin>
+    <id>pro.darc.pigeon.sh</id>
+    <name>Spigot Helper</name>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <description>
+        <![CDATA[
+            This is a simple plugin to help guys develop plugins on Spigot(also Bukkit) platform.
+        ]]>
+    </description>
+    <change-notes>
+        <![CDATA[
+            <ul>
+                <li>0.1.0 First Release</li>
+            </ul>
+        ]]>
+    </change-notes>
+
+    <vendor url="https://darc.pro">DarcJC</vendor>
+</idea-plugin>
